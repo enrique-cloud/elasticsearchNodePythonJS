@@ -1,5 +1,7 @@
 # pip install -r requirements.txt
 
+# dictionaries can be downloaded from Athena medical vocabulary
+
 # download and install elasticsearch and kivana from:
 # https://www.elastic.co/downloads/
 
@@ -18,7 +20,7 @@ requests == 2.28.1
 
 #  https://localhost:9200/   => elasticsearch
 #  http://localhost:5601/   => kibana
-#  elastic / YQ=5zr8h7_zmhs_f-kmO
+#  elastic / password
 
 
 ####################
@@ -44,5 +46,5 @@ opencv-python == 4.6.0.66
 
 ######################
 # Athena
-# enrique@krasamo.com
-# MedicalTree8*
+# user
+# password
